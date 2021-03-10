@@ -6,11 +6,11 @@ int main() {
 	
 	int idade;
 	
-	cout << "Entre com a idade do nadado: ";
+	cout << "Entre com a idade do nadador: ";
 	cin  >> idade;
 	
 	while(idade < 5) {
-		cout << "Entre com a idade do nadado: ";
+		cout << "Entre com a idade do nadador: ";
 	cin  >> idade;
 	}
 	
