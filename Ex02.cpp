@@ -23,7 +23,7 @@ int main() {
 	} else if(idade >= 14 && idade <= 17){
 			cout << "Categoria Juvenil B!";
 	} else {
-		cout << " Categoria Sênior!";
+		cout << " Categoria SÃªnior!";
 	}
 
 }
