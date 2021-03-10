@@ -6,11 +6,11 @@ int main() {
 	
 	int idade;
 	
-	cout << "Entre com a idade do nadado: ";
+	cout << "Entre com a idade do nadador: ";
 	cin  >> idade;
 	
 	while(idade < 5) {
-		cout << "Entre com a idade do nadado: ";
+		cout << "Entre com a idade do nadador: ";
 	cin  >> idade;
 	}
 	
@@ -23,7 +23,7 @@ int main() {
 	} else if(idade >= 14 && idade <= 17){
 			cout << "Categoria Juvenil B!";
 	} else {
-		cout << " Categoria Sênior!";
+		cout << " Categoria SÃªnior!";
 	}
 
 }
